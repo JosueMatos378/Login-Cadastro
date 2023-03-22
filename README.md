@@ -43,4 +43,4 @@ No arquivo app.js faça as mesmas configurações:
  
  --------------------------------------------------------------------------------------------------
 
-Por motivos que ainda não conheço o CSS não funciona executando o programa pelo NodeJS, se souber e quiser ajudar fico agradecido!!!
+Por motivos que ainda não conheço o CSS não funciona executando o programa pelo NodeJS, se souber e quiser ajudar, fico agradecido!!!
