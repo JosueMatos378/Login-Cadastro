@@ -3,6 +3,6 @@ Tela de login e cadastro, front-end e back-end com conexão ao PostgreSQL utiliz
 
 
 Bibliotecas necessarias:
-  npm install express
-  npm install body-parser
-  npm install pg
+  $ npm install express
+  $ npm install body-parser
+  $ npm install pg
