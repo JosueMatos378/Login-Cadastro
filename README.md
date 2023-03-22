@@ -35,7 +35,7 @@ No arquivo app.js faça as mesmas configurações:
   port: 5432, <br/>
   
   
-  Para executar o programa rode no navegador o comando: <br/>
+  Para executar o programa rode no terminal o comando: <br/>
   
   
  $ node app.js
