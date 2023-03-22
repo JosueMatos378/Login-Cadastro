@@ -11,11 +11,11 @@ Bibliotecas necessarias: <br>
 
 Configure o arquivo create-tables.js com os dados do seu banco de dados
 
-  user: "Seu usuario do PostgreSQL",
-  host: "localhost",
-  database: "Nome da sua base de dados",
-  password: "Senha do seu PostgreSQL",
-  port: 5432,
+  user: "Seu usuario do PostgreSQL", <br/>
+  host: "localhost", <br/>
+  database: "Nome da sua base de dados", <br/>
+  password: "Senha do seu PostgreSQL", <br/>
+  port: 5432, <br/>
 
 
 Tendo sua base de dados criada no PostgreSQL, rode no terminal o comando <br/>
